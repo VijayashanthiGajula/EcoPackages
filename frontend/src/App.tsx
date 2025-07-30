@@ -1,10 +1,7 @@
-
-
-import './App.css'
+import './styles/App.css'
 <meta name="viewport" content="initial-scale=1, width=device-width" />
 
 function App() {
-  
 
   return (
     <>      
